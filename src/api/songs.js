@@ -9,7 +9,7 @@ const songs = [
     duration: "05:03",
   },
   {
-    id: 1,
+    id: 2,
     title: "Bethel Music - Closer",
     src: require("../assets/music/Closer_(Live)_-_Josie_Buchanan__Bethel_Music(256k).mp3"),
     artist: ["Josie Buchanan"],
@@ -18,7 +18,7 @@ const songs = [
     duration: "10:36",
   },
   {
-    id: 1,
+    id: 3,
     title: "Brandon Roberson - You Are Holy",
     src: require("../assets/music/You_Are_Holy_Brandon_Roberson_Official_Video.mp3"),
     artist: ["Brandon Roberson"],
@@ -27,7 +27,7 @@ const songs = [
     duration: "07:32",
   },
   {
-    id: 1,
+    id: 4,
     title: "Jenn Johnson - I Love Your Presence, Here Is Love",
     src: require("../assets/music/I_Love_Your_Presence_Jenn_Johnson_Here_Is_Love.mp3"),
     artist: ["Jenn Johnson"],
